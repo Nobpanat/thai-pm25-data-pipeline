@@ -1,0 +1,624 @@
+location_id,original_name,latitude,longitude,province,region
+49,"Phahol Yothin Rd., Khet Chatuchak",13.797855,100.551338,Bangkok,Central
+57,"Khlong Nueng, Khlong Luang",14.040299305494,100.60873959621,Bangkok,Central
+66,"Bang Khun Thian, Chom Thong",13.684229480854,100.44598735492,Bangkok,Central
+94,"Din Daeng, Din Daeng",13.775373291477,100.56892844813,Bangkok,Central
+135,Prabadang Rehabiltation Center,13.664087,100.543436,Samut Prakan,Central
+138,"Lat Phrao Rd., Wang Thonglang",13.792635009230002,100.59607755884001,Bangkok,Central
+310,"Hiran Ruchi, Thon Buri",13.732878086814,100.48601837802,Bangkok,Central
+418,Department of Disease Control,13.853457,100.527132,Nonthaburi,Central
+619,"Bang Sao Thong, Bang Sao Thong",13.567696531322,100.78940318041,Samut Prakan,Central
+701,Sukhothai Thammathirat Open University,13.907861,100.535641,Nonthaburi,Central
+717,Pluakdaeng District Health Office,12.97378333,101.21285,Rayong,East
+798,"Din Daeng Rd., Din Daeng",13.762406000000002,100.550598,Bangkok,Central
+863,"Noen Phra, Mueang",12.7053545,101.1818364,Rayong,East
+906,Residence for Dept. of Mineral Resources,13.652141,100.531805,Samut Prakan,Central
+1007,"Pak Phriao, Mueang",14.523536277394,100.92917127159,Saraburi,Central
+1205,"Khlong Chan, Bang kapi",13.78152,100.636548,Bangkok,Central
+1486,"Mae Mo, Mae Mo",18.279680637193,99.663144703624,Lampang,North
+1982,"Na Mueang, Mueang",13.532554999999999,99.814873,Ratchaburi,West
+2167,Highway District,13.7054879,100.315622,Samut Sakhon,Central
+2287,"Na Chak, Mueang",18.12614,100.1654,Phrae,North
+2295,"Pak Nam Pho, Mueang",15.707848227166,100.1319285287,Nakhon Sawan,Central
+2303,"Phaya Thai, Khet Phaya Thai",13.780444,100.537798,Bangkok,Central
+2304,"Sop Pat, Mae Mo",18.247769049494,99.766891808156,Lampang,North
+2311,"Ban Suan, Mueang",13.360626576582,100.98454092591,Chon Buri,East
+2325,"Wiang, Mueang",19.190056,100.170326,Phayao,North
+2326,Thai Meteorological Department,13.666183,100.605742,Bangkok,Central
+2328,"Natural Resources and Environment Office, Chiangrai",19.909217,99.823467,Chiang Mai,North
+2342,"Makham Tia, Mueang",9.1368079509525,99.320715944922,Surat Thani,South
+2352,Thonburi Power Sub-Station,13.727622,100.486568,Bangkok,Central
+2363,"Samae Dam, Bang Khun Thian",13.66846068306,100.50581203933,Bangkok,Central
+2364,"Pratu Chai, Phra Nakhon Si Ayutthayal",14.349366683822,100.56853549578,Phra Nakhon Si Ayutthaya,Central
+2369,"Aranyaprathet, Aranyaprathet",13.689028480765,102.50620686398,Sa Kaeo,East
+2375,Bodindecha Sing Singhaseni School,13.769634,100.614567,Bangkok,Central
+2376,Samut Sakhon Wittayalai School,13.5502631,100.2647676,Samut Sakhon,Central
+2377,"Na Phra Lan, Chaloem Phra Kiat",14.683085094818,100.87513981078,Saraburi,Central
+2407,Municipality Office Tungsadao,13.588500000000002,101.28633329999998,Chachoengsao,East
+2411,Health Promotion Hospital Banthasri,18.4267833,99.7576333,Lampang,North
+2421,"Sateng, Mueang",6.5499937928872,101.27999862621,Yala,South
+2429,"Chong Kham, Mueang",19.304501021455,97.971525255487,Mae Hong Son,North
+2433,Nonsi Witthaya School,13.70806667,100.5473333,Bangkok,Central
+5545,Chulalongkorn Hospital,13.729852,100.536501,Bangkok,Central
+5938,"Nai Mueang, Mueang",18.564721437399,99.011144750057,Lamphun,North
+6023,"Map Ta Phut, Mueang",12.708296915688,101.16605097922998,Rayong,East
+7009,"Bang Nak, Mueang",6.427698,101.823568,Narathiwat,South
+7676,"Tha Pradu, Mueng",12.680918537711,101.27357778829,Rayong,East
+7747,Hydrogeological Group Water Resources Regional Office4 khonkaen,16.44538333,102.83525,Khon Kaen,Northeast
+7840,Laem Chabang Municipal Stadium,13.11923333,100.91855,Chon Buri,East
+7843,"Nai Mueang, Mueang",14.976785802969,102.10219652705,Nakhon Ratchasima,Northeast
+7845,"Hat Yai, Hat Yai",7.010000800002,100.29000030001002,Songkhla,South
+7846,"Field Crop Research Center, Rayong",12.73518333,101.13565,Rayong,East
+7847,"Talat Yai, Mueang",7.8816363400512,98.394290593566,Phangnga,South
+225566,Amphawan Temple or Ban Nong Muang Temple,16.078641,103.634844,Roi Et,Northeast
+225567,Maesai Health Office,20.427325,99.883842,Chiang Rai,North
+225568,"Bang Khen District Office, Bangkok",13.873603,100.595839,Bangkok,Central
+225569,Health Promotion Hospital Bankhaohin,13.054551,101.098128,Chon Buri,East
+225570,"Meteorological stations, Lampang",18.2783333,99.5064666,Lampang,North
+225571,"Bang Khun Thian District Office, Bangkok",13.659908,100.435902,Bangkok,Central
+225572,Kasertsart University,13.839923,100.575632,Bangkok,Central
+225573,Hat Yai Municipality,7.020434,100.484088,Songkhla,South
+225574,"Phra Kanong District Office,  Bangkok",13.691511,100.61457,Bangkok,Central
+225575,Bangkok Noi Train Police Station,13.759619,100.481137,Bangkok,Central
+225576,Khai Surasinghanat,12.648576,101.32245,Rayong,East
+225577,"Bank of Ayuthaya Head Office Yan Nawa, Bangkok",13.679226,100.54687,Bangkok,Central
+225578,White Elephant Park,6.546205,101.283137,Yala,South
+225579,Yupparaj Wittayalai School,18.7909333,98.99,Chiang Mai,North
+225580,National Housing Authority Klongchan,13.779873,100.646009,Bangkok,Central
+225582,"Khlong Toei District Office, Bangkok",13.708488,100.583747,Bangkok,Central
+225583,Mobile Air Quality Monitoring unit No.04,18.804718,98.896851,Chiang Mai,North
+225584,Samut Songkhram Health Office,13.428581,100.02466400000002,Samut Songkhram,Central
+225585,Chom Nan Chaloem Phrakiat Public Park,16.820832999999997,100.258056,Phitsanulok,Central
+225586,Elderly Health Rehabilitation Center,8.426923,99.96146899999998,Nakhon Si Thammarat,South
+225587,Water reservoir,13.832076,100.057961,Nakhon Pathom,Central
+225588,Nakhonban Phetchabun Cultural Hall,16.419884,101.160035,Phetchabun,Central
+225589,Kanjanapisek Park,13.691047,102.510442,Sa Kaeo,East
+225590,"Sai Mai District Office, Bangkok",13.896035,100.660628,Bangkok,Central
+225591,"Ladphrao District Office, Bangkok",13.803587,100.607535,Bangkok,Central
+225592,"District Hall, Kamphaeng Phet",16.48515,99.524454,Kamphaeng Phet,Central
+225593,Big C Supercenter Bang Na,13.667987,100.635313,Bangkok,Central
+225594,Phichit Provincial Government Center,16.421049,100.3629,Phichit,Central
+225595,Bang Bon 5 Market,13.639165,100.372958,Bangkok,Central
+225596,"Sathon District Office, Bangkok",13.707763,100.526787,Bangkok,Central
+225597,"Municipality Office, Uttaradit",17.62333,100.096111,Uttaradit,North
+225598,Bu Yai Bai Hall Station,13.917563,101.590529,Prachin Buri,East
+225599,Bangrak Lovely Plaza,13.726136,100.528055,Bangkok,Central
+225600,Trat Provincial Central Stadium,12.234862,102.52372100000001,Trat,East
+225601,Chaloem Phrakiat Park Station 80th birthday celebration,15.373638,100.038725,Uthai Thani,Central
+225602,Municipal Waste Water Pumping Station,14.979536999999999,102.098335,Nakhon Ratchasima,Northeast
+225603,"Field Crop Research Center, Rayong",12.73518333,101.13565,Rayong,East
+225604,Seacon Square,13.695561,100.647615,Bangkok,Central
+225605,Municipal Health Center,7.884488,98.391283,Phuket,South
+225606,Kanchanaburi Meteorological Station,14.022376,99.536195,Kanchanaburi,West
+225607,"Environment Agency Section 14, Surat Thani",9.126017,99.325145,Surat Thani,South
+225609,Nakhonsawan Irrigation Project,15.68623,100.110556,Nakhon Sawan,Central
+225610,"Bueng Kum District Office, Bangkok",13.785212,100.669183,Bangkok,Central
+225611,Health Promotion Hospital Maptaput,12.70865,101.1659833,Rayong,East
+225612,Bansomdejchaopraya Rajabhat University,13.732846,100.487662,Bangkok,Central
+225613,Lat Krabang Hospital,13.72205,100.784069,Bangkok,Central
+225614,Tha phra Intersection,13.729431,100.474373,Bangkok,Central
+225615,"Meteorological stations, Nakhon Phanom",17.412345,104.7786123,Nakhon Phanom,Northeast
+225616,Mukdahan Provincial Hall,16.54637,104.72597,Mukdahan,Northeast
+225617,"Suan Luang District Office, Bangkok",13.731051,100.651705,Bangkok,Central
+225618,Provincial Office for Natural Resources and Environment Sakon Nakhon,17.157502,104.131043,Sakon Nakhon,Northeast
+225619,"Don Mueng District Office, Bangkok",13.910986,100.594877,Bangkok,Central
+225620,Na Phralan Police Station,14.685833,100.87199599999998,Saraburi,Central
+225621,Thon Buri Market Sanam Luang 2,13.746257,100.355099,Bangkok,Central
+225622,"Huai Khwang District Office, Bangkok",13.77682,100.579543,Bangkok,Central
+225623,Environmental Office 8 ratchaburi,13.52344,99.814082,Ratchaburi,West
+225624,Odeon Circus,13.737136,100.512734,Bangkok,Central
+225625,"City Hall, Satun",6.624747,100.06615900000001,Satun,South
+225626,"Non-Formal Education Centre, Mea Sot",16.734413,98.566961,Tak,West
+225627,"Municipality Office, Sukhothai",17.014167,99.821667,Sukhothai,Central
+225628,"Government Complex, Rayong",12.7066,101.18055,Rayong,East
+225629,Department of Disease Control,13.852778,100.529444,Nonthaburi,Central
+225630,"Meteorology Center, Phrae",18.1283666,100.16243330000002,Phrae,North
+225631,National Economic and Social Development Council Office,13.756281,100.514267,Bangkok,Central
+225632,"Chomthong District Office, Bangkok",13.677757,100.483861,Bangkok,Central
+225633,Siam University,13.718689,100.45391,Bangkok,Central
+225634,"Rat Burana District Office,  Bangkok",13.6821364,100.5060513,Bangkok,Central
+225635,"Wang Thonglang District Office, Bangkok",13.778981,100.622294,Bangkok,Central
+225636,Khao Noi Fire Station,14.526343,100.926047,Saraburi,Central
+225637,South Bangkok Power Plant,13.618,100.5562,Samut Prakan,Central
+225638,Samyan Mitrtown,13.733136,100.52829,Bangkok,Central
+225639,"City Hall, Narathiwat",6.426853,101.823388,Narathiwat,South
+225640,Library under King Taksin Bridge,13.719705,100.508782,Bangkok,Central
+225641,"Din Dang, Bangkok",13.7619223,100.558606,Bangkok,Central
+225642,"Bang Phlat District Office, Bangkok",13.793965,100.504956,Bangkok,Central
+225643,Bangkok University Rangsit Campus,14.03742,100.605216,Bangkok,Central
+225644,Suphan Buri Provincial Central Stadium,14.476214,100.086095,Suphan Buri,Central
+225645,National Housing Authority Bangplee,13.5705,100.7862867,Samut Prakan,Central
+225646,Provincial Waterworks Authority Mae Moh,18.2826333,99.6598166,Lampang,North
+225647,"Phra Nakhon District Office, Bangkok",13.76415,100.499077,Bangkok,Central
+225648,"Natural Resources and Environment Office, Mae Hongson",19.30455,97.97165,Mae Hong Son,North
+225649,"OTOP Center, Ubon Ratchathani",15.245413,104.846219,Ubon Ratchathani,Northeast
+225650,The Government Public Relations Department,13.783185,100.540489,Bangkok,Central
+225651,"Saphan Sung District Office, Bangkok",13.768892,100.685743,Bangkok,Central
+225652,Public Park to commemorate the sixth anniversary of His Majesty the King,13.697252,100.497185,Bangkok,Central
+225653,Chokchai Police Station,13.7954248,100.5930298,Bangkok,Central
+225654,"Environment Agency Section 13, Chonburi",13.35461667,100.9792167,Chon Buri,East
+225655,"Meteorological Staions, Lamphun",18.567194,99.038639,Lamphun,North
+225656,"Bang Sue District Office, Bangkok",13.809596,100.537883,Bangkok,Central
+225657,"child development centers, Betong",5.763873,101.067903,Yala,South
+225658,Bueng Kan District Office,18.358249,103.652055,Bueng Kan,Northeast
+225659,Kalasin Provincial Natural Resources and Environment Office,16.442904,103.535221,Kalasin,Northeast
+225660,"Chaloem Phrakiat Rama 9 Park Min buri, Bangkok",13.813578,100.73208,Bangkok,Central
+225661,"Nong Thin Public Park, Nong Khai",17.877479999999995,102.728925,Nong Khai,Northeast
+225663,Buriram City Hall,14.945452000000001,103.10589600000002,Buri Ram,Northeast
+225664,Chaiyaphum City Hall,15.808061,102.031993,Chaiyaphum,Northeast
+225666,"Phayao Provincial, Phayao",19.200226,99.893048,Phayao,North
+225667,Mahaisawan Intersection,13.70515,100.48465,Bangkok,Central
+225668,"Bang Kapi District Office, Bangkok",13.766478,100.647785,Bangkok,Central
+225669,"City Hall, Chiangmai",18.840732,98.96978,Chiang Mai,North
+225671,"Khlong Sam Wa District Office, Bangkok",13.859911,100.704002,Bangkok,Central
+225672,Suan Sayam-Ram Intra Intersection,13.813844,100.686594,Bangkok,Central
+225673,National Housing Authority Dindaeng,13.762516670000002,100.5502,Bangkok,Central
+225674,"Municipality Office, Nan",18.7888833,100.7763166,Nan,North
+225675,Meteorological Station Lopburi,14.800032,100.62854800000001,Lop Buri,Central
+225676,Ayutthaya Witthayalai School,14.35222,100.565325,Phra Nakhon Si Ayutthaya,Central
+225677,"Lak Si District Office, Bangkok",13.887395,100.579247,Bangkok,Central
+225678,"Bang Khae District Office, Bangkok",13.696314,100.409049,Bangkok,Central
+225679,"Dusit District Office, Bangkok",13.776664,100.520982,Bangkok,Central
+225680,Sri Nakhon Khuean Khan Park,13.696681,100.563631,Samut Prakan,Central
+225681,"Soi Sukhumwit 63 Roadside Wattana, Bangkok",13.722096,100.584559,Bangkok,Central
+225682,King Mongkut's University of Technology Thonburi,13.651004,100.496673,Bangkok,Central
+225683,"Nong Chok District Office, Bangkok",13.855362,100.86267,Bangkok,Central
+225684,Army Apartment Sam Sen,13.783554,100.5344645,Bangkok,Central
+225685,National Housing  Huaykwang,13.77553,100.569195,Bangkok,Central
+225686,Highway NO.3902 km.13 +600,13.636514,100.414262,Bangkok,Central
+225687,"Provincial Health Office, Loei",17.452765,101.728715,Loei,Northeast
+225688,"Ratchathewi District Office, Bangkok",13.7590851,100.5345788,Bangkok,Central
+225689,Phutthamonthon 1 - Borommaratchachonnani Intersection,13.780778,100.426727,Bangkok,Central
+225690,Agricultural Office,12.67155,101.2758667,Rayong,East
+225691,"Ma Charean Roadside, Petcha Kasem 8, Nong Khaem",13.705582,100.343164,Bangkok,Central
+225692,"Health Promotion Hospital Sob Pad, Lampang",18.2508166,99.76395,Lampang,North
+225693,"Debaratana Vejjanukul Hospital, Mae Chaem",18.498333,98.379444,Chiang Mai,North
+228541,"60th Anniversary Queen Sirikit Public Park, Loei",17.48462,101.732734,Loei,Northeast
+228542,"Nong Prajak Public Park, Udon Thani",17.414174,102.78092600000001,Udon Thani,Northeast
+228543,"72nd Anniversary King Bhumibol Public Park, Uttaradit",17.631351999999996,100.09896000000002,Uttaradit,North
+228544,"Meteorological stations, Sakon Nakhon",17.15662,104.13321599999999,Sakon Nakhon,Northeast
+228627,"Polytechnic College, Trang",7.570238000000001,99.58874300000001,Trang,South
+229077,Suvarnabhumi Airport Free Zone,13.702778,100.75,Samut Prakan,Central
+229131,King Kaew Temple,13.676111,100.715,Samut Prakan,Central
+229190,Grand Monaco Village,13.672332,100.698602,Bangkok,Central
+229191,Lalin Greenville Village,13.702383,100.698808,Bangkok,Central
+270250,Phetbura garden,16.418417,101.15655600000001,Phetchabun,Central
+270292,Ban Pa Bong School,19.336111,98.954444,Chiang Mai,North
+270695,"Taksin Stadium, Muang Tak Municipality",16.883611,99.123056,Tak,West
+270702,Bueng Planchai,16.057448,103.651056,Roi Et,Northeast
+270780,Singburi City Hall,14.897778,100.411944,Sing Buri,Central
+270824,"Ban Pang, Bang Sai, Phra Nakhon Si Ayutthaya",14.235833,100.485556,Phra Nakhon Si Ayutthaya,Central
+277658,"Natural Resources and Environment Office, Sing Buri",14.889702,100.397979,Sing Buri,Central
+278507,Mae Sariang District Public Health Office,18.163056,97.917778,Mae Hong Son,North
+278637,Chiang Khong District Public Health Office,20.258611,100.407778,Chiang Rai,North
+289762,Sisaket City Hall,15.11879,104.322607,Si Sa Ket,Northeast
+290775,Amnat Charoen Clock Tower,15.863523,104.627401,Amnat Charoen,Northeast
+308183,Kaeng Krachan National Park,12.884444,99.632778,Phetchaburi,West
+319752,Si Sawat District Office,14.600278,99.114444,Kanchanaburi,West
+351927,Le Thai Community Park,17.006058999999997,99.81927,Sukhothai,Central
+353740,Chanthaburi Meteorological Station,12.6095704,102.1040804,Chanthaburi,East
+353741,"Phichit Provincial , Phichit",16.442554,100.322756,Phichit,Central
+353742,Mukdahan Provincial Stadium,16.54257,104.7192,Mukdahan,Northeast
+353743,Sirichit Thai Cultural Conservation Ground,16.475374,99.525425,Kamphaeng Phet,Central
+354124,Hua Hin Weather Station Prachuap Khiri Khan Meteorological Station,12.577835,99.953663,Prachuap Khiri Khan,West
+368390,Thawee Wanarom Park,13.7435329,100.3526893,Bangkok,Central
+368391,Suan Luang Rama IX,13.6881393,100.6579657,Bangkok,Central
+368392,Ramintra Sports Park,13.8778763,100.6207085,Bangkok,Central
+368393,Rommani Thungsikan Park,13.9288678,100.5684666,Bangkok,Central
+368394,Lumpini park,13.732225,100.5448381,Bangkok,Central
+368395,Thonburirom Park,13.6502295,100.4909771,Bangkok,Central
+368396,Queen Sirikit Park,13.8055472,100.5488338,Bangkok,Central
+368397,Rama VIII Park,13.7693437,100.4945337,Bangkok,Central
+368398,Santiphap Park,13.7631081,100.541407,Bangkok,Central
+368399,Benjakitti Park,13.7328791,100.5600172,Bangkok,Central
+368400,"Bang Kho Laem District Office, Bangkok (Mobile)",13.69304,100.50244,Bangkok,Central
+368401,Nong Chok Park,13.855656,100.8585539,Bangkok,Central
+368402,Serithai Park,13.7855673,100.6733359,Bangkok,Central
+368403,Chatuchak Park,13.802546,100.5509191,Bangkok,Central
+368404,"60th Anniversary of Queen Sirikit Park ,Kheha Romklao Road, Lat Krabang, Bangkok",13.7631141,100.7302101,Bangkok,Central
+368405,Bang Khae Phirom Park,13.6863478,100.3844036,Bangkok,Central
+368406,80th Anniversary Commemoration Park,13.7716446,100.4681128,Bangkok,Central
+368407,Wacchirabenchatat Park,13.8118516,100.5535825,Bangkok,Central
+368408,Phra Nakhon Park,13.7201042,100.7807077,Bangkok,Central
+368485,Benchasiri Park,13.7304916,100.5684634,Bangkok,Central
+385742,Chaloem Phra Kiat Water Park,14.606306,100.453589,Ang Thong,Central
+387511,Wiang Subdistrict Disaster Prevention and Mitigation Center,20.2575,100.4025,Chiang Rai,North
+387660,Mueang Na Subdistrict Municipality Office,19.593889,98.961667,Chiang Mai,North
+388656,"Chiang Mai Provincial Administrative Organization Office, Intersection (Southern Area)",18.175,98.630833,Chiang Mai,North
+388962,Li District Office,17.802222,98.949722,Lamphun,North
+414787,Tha Yang Subdistrict Municipality Office,12.965556,99.891944,Phetchaburi,West
+418809,National Housing Authority Klongchan,13.76121,100.517035,Bangkok,Central
+418810,"Southeast Asia University, Bangkok (Mobile)",13.70735,100.35391,Bangkok,Central
+429157,Nong Bua Lamphu Meteorological Station,17.226111,102.424167,Nong Bua Lamphu,Northeast
+429261,Tak Provincial Administrative Organization,16.877778,99.139722,Tak,West
+488924,Keth,16.185101576,103.302658349,Maha Sarakham,Northeast
+497972,Phatong Municipality,6.868055,100.465385,Songkhla,South
+497973,Songkhla Municipality Office,7.207028,100.597014,Songkhla,South
+500068,Pai Municipality,19.3591522,98.4364794,Mae Hong Son,North
+523937,Tha Kham Municipality Office,18.202222,98.597222,Chiang Mai,North
+808649,"Natural Resources and Environment Office, Chainat",15.173056,100.126944,Chai Nat,Central
+921162,Suan Sayam-Ram Intra Intersection,13.799395,100.682464,Bangkok,Central
+1172475,"Natural Resource and Environment, Phatthalung",7.614396,100.113766,Phatthalung,South
+1180402,Ban Padang Community School,6.666143963588895,100.32734858721086,Songkhla,South
+1180409,Provincial Natural Resources and Environmental Office,6.890639752808323,101.25106087293467,Pattani,South
+1180415,Provincial Natural Resources and Environmental Office,6.890639752808323,101.25106087293467,Pattani,South
+1235990,"Kasetsart university laboratory school 1, Chatuchak, Bangkok",13.850829210818615,100.56881779163187,Bangkok,Central
+1235996,"Vieng Nua, Pai",19.374620435850545,98.44561078410078,Mae Hong Son,North
+1235999,NARIT ASTROPARK (Parking),18.85345541310349,98.95760600870581,Chiang Mai,North
+1236002,"The National Science Museum, Thailand (NSM)",14.059029941320787,100.72229270474135,Pathum Thani,Central
+1236013,"Soemngamwitthayakhom School 2, Some-Ngam, Lampang",18.279805533636747,99.48051196520771,Lampang,North
+1236014,NARIT​-OPD,18.85275424506312,98.95834692689932,Chiang Mai,North
+1236022,แม่กวง,18.8266136,99.0523185,Chiang Mai,North
+1236024,สันโป่ง,18.9375111,98.9566944,Chiang Mai,North
+1236034,"Watkhemapirataram school 1, Mueang, Nonthaburi",13.823306342907303,100.50341971861289,Nonthaburi,Central
+1236035,"Pathumthep witthayakarn school 1, Mueang, Nong Khai",17.866408250878237,102.74806318240316,Nong Khai,Northeast
+1236038,"Nuannoradit school 2, Phasi Charoen, Bangkok",13.723905641056973,100.46672554559318,Bangkok,Central
+1236040,"Kaenoisuksa School 1, Chiang Dao, Chiang Mai",19.394767432705724,98.92874614493202,Chiang Mai,North
+1236044,"Be Leaf Resort, Phuket",8.028638989565119,98.35441155579035,Phuket,South
+1236050,Prem Tinsulanonda International School 1,18.96255421231335,98.91562786546136,Chiang Mai,North
+1236053,"Suwannaramwittayakom school 1, Bangkok Noi, Bangkok",13.76312579330489,100.47612901861227,Bangkok,Central
+1236056,Waterfall Road,8.028016264564139,98.35527762231732,Phuket,South
+1236057,"Suwannakhuhapittayasan school 1, Suwan Khuha, Nong Bua Lamphu",17.23816238132771,102.43412910724983,Nong Bua Lamphu,Northeast
+1236063,"intERLab, Pathumthani, Thailand",14.077551603647665,100.61278750267229,Pathum Thani,Central
+1236066,NARIT ASTROPARK (Research building),18.851438300930976,98.95771486398863,Chiang Mai,North
+1236067,"Nonghanwittaya school 1, Nong Han, Udon Thani",17.77979422107294,103.71065058858952,Sakon Nakhon,Northeast
+1236069,Rajaphat Yala University,6.549012748332888,101.2896306111374,Yala,South
+1236072,"Srikranuanwittayakom school 1, Kranuan, Khon Kaen",16.721984416175946,103.08173493955674,Khon Kaen,Northeast
+1236074,"Mahapruttaram girl's school 2, Bang Rak, Bangkok",13.732667711114303,100.51601151861196,Bangkok,Central
+1236075,"Nongnangpittayakom school 1, Tha Bo, Nong Khai",17.83218858266286,102.56660888425778,Nong Khai,Northeast
+1236078,"Waengpittiayakhom school 1, Sawang Daen Din, Sakon Nakhon ",17.4689566685271,103.48612609959888,Sakon Nakhon,Northeast
+1290682,Ranong Municipal office,9.961849,98.639341,Ranong,South
+1299596,Phangnga Provincial Government Center,8.424964,98.528719,Phangnga,South
+1305707,"Khunyuam Wittaya School 2, Khunyuam, Maehongson",18.837399394128656,97.93995071660461,Mae Hong Son,North
+1329696,"Ubolratanaphitthayakhom school 2, Ubonrat, Khon Kaen",16.7873497901495,102.6332544864775,Khon Kaen,Northeast
+1405439,"Chomthong School 1, Chomthong, Chiang Mai",18.435156957109033,98.67718182473789,Chiang Mai,North
+1641552,วังหมุ้น,18.945298569548378,98.97347979467268,Chiang Mai,North
+1641558,Prem Tinsulanonda International School 2,18.966512871928927,98.91508369562034,Chiang Mai,North
+1646752,ดาดฟ้า,18.932618966437307,98.96445032014383,Chiang Mai,North
+1650686,Mueang Chaiyaphum Municipality Stadium,15.81148,102.02281,Chaiyaphum,Northeast
+1650687,Phaya Thaen Public Park,15.783860999999998,104.154639,Yasothon,Northeast
+1650688,SINGBURI SCHOOL,14.8933874,100.4130773,Chai Nat,Central
+1698943,Savvi Condominium Phahol-Ari,13.778406648867108,100.54654472577135,Bangkok,Central
+1753562,บ้านร้องเกิด,18.92786395211318,98.96541049234524,Chiang Mai,North
+1753563,ดวงดี,18.91977780483509,98.95279736395602,Chiang Mai,North
+1753564,แก้วสา,18.928286035684813,98.94445179435797,Chiang Mai,North
+1785688,Amnat Charoen Municipality,15.875800000000002,104.6223,Amnat Charoen,Northeast
+1785690,KAENG DON KLANG PARK,16.4436,103.51299999999999,Kalasin,Northeast
+1785691,Nakhon Nayok Municipality Public Health Service Center,14.204219999999998,101.21509,Nakhon Nayok,Central
+1785692,Nong Bueng Kan Park,18.362008,103.65977000000001,Bueng Kan,Northeast
+1785693,Sisaket Meteorological Center,15.086836199999999,104.32647460000001,Si Sa Ket,Northeast
+1785694,Surin Meteorological Center,14.8762222,103.4965833,Surin,Northeast
+1861095,Wiang Subdistrict Disaster Prevention and Mitigation Center,18.804894,98.900698,Chiang Mai,North
+1861445,"Fangchanupathum School 1, Fang, Chiang Mai",19.863943477644817,99.17937755730453,Chiang Mai,North
+1864570,"Provincial Electricity Authority, Hot District Branch",18.172495,98.61069,Chiang Mai,North
+1873401,Sisaket Meteorological Center,15.087087,104.326787,Si Sa Ket,Northeast
+1877127,Acoem Thailand,13.806197714948992,100.6154652387912,Bangkok,Central
+1894642,Savvi Condominium Phahol-Ari,13.77865,100.54655,Bangkok,Central
+1896059,Pai Airport,19.364055,98.436205,Mae Hong Son,North
+1896763,Pai Airport,19.369637,98.43596,Mae Hong Son,North
+1935353,Chiang Mai,18.77435504104218,98.98365627447588,Chiang Mai,North
+1993935,Nong Bua Lamphu Provincial Administrative Organization,17.193824,102.4585009,Nong Bua Lamphu,Northeast
+1993936,"Somdet Phra Srinagarindra Park, Roi Et",16.057537,103.651372,Roi Et,Northeast
+2041043,Mae Ann,18.971315125096538,98.8784122467041,Chiang Mai,North
+2088223,Government House,13.763911018899341,100.51289004935268,Bangkok,Central
+2124016,Wiang Nuea Beverly Hills Goat Farm,19.385584,98.459714,Mae Hong Son,North
+2132593,Phetchaburi Municipality,13.11249031,99.9461325,Phetchaburi,West
+2136949,Pai: Wednesday Market,19.351845,98.4411552,Mae Hong Son,North
+2142493,Wiang Nuea Beverly Hills Hua Chang Dam,19.383934,98.464782,Mae Hong Son,North
+2142801,Wiang Nuea: Wat Phra Phutthabat,19.3910772,98.4534912,Mae Hong Son,North
+2146217,Pai: Seng Tong Market,19.3573394,98.4381079,Mae Hong Son,North
+2147304,Tin That,19.3172193,98.439397,Mae Hong Son,North
+2151718,Wiang Nuea Moat,19.3747778,98.4453889,Mae Hong Son,North
+2154067,Kung Kaeng: Pai Munchkins Club / PLearn Pai Bilingual Learning Center,19.342108,98.435391,Mae Hong Son,North
+2155602,Mae Hi: Bueng Pai Farm,19.344337,98.446422,Mae Hong Son,North
+2158149,Pai: Dr. Neung Clinic near PTT gas station,19.355492,98.436671,Mae Hong Son,North
+2165656,Mae Yen: Ing Doi Guesthouse,19.355916,98.448666,Mae Hong Son,North
+2169936,Hang Dong / Sameong,18.719434,98.930183,Chiang Mai,North
+2174592,Chiang moi,18.78987,98.99583,Chiang Mai,North
+2181641,ทองหล่อ 8,13.7316,100.5834,Bangkok,Central
+2297552,Tha Pai Hot Springs,19.307811,98.473538,Mae Hong Son,North
+2315448,Muang Soi Health Center,19.395894,98.404624,Mae Hong Son,North
+2327978,Mae Hi: Pittalew Art Gallery,19.344769,98.453281,Mae Hong Son,North
+2340282,Paina Paita Home (near Coffee In Love),19.336754,98.43217,Mae Hong Son,North
+2375197,Mae Khong Border Patrol,19.385612,98.437128,Mae Hong Son,North
+2379288,Sahakorn 5,18.857987,99.261237,Chiang Mai,North
+2384279,Mae Na Toeng School,19.393767,98.42108,Mae Hong Son,North
+2384280,Wiang Nuea Moo 8 Mayor,19.379253,98.445529,Mae Hong Son,North
+2384585,Mae Khong Health Center,19.385735,98.439518,Mae Hong Son,North
+2393909,Pai: NT/TOT office near Pai Hospital,19.3621389,98.4375556,Mae Hong Son,North
+2402491," Wat Khlong Toey Nai School, Bangkok",13.71037,100.56115,Bangkok,Central
+2429011,The Mud House by CMG,18.7069018,98.9153218,Chiang Mai,North
+2429963,Mae Ping Health Center,19.28607,98.468214,Mae Hong Son,North
+2432814, ไดมอนด์,18.941970789965023,98.94292144786002,Chiang Mai,North
+2439091,Wiang Nuea: Mon Far Pai Cottages,19.369755,98.449955,Mae Hong Son,North
+2439859,Wat Mo Paeng,19.379659,98.396488,Mae Hong Son,North
+2457250,Muang Rae Police Box,19.241398,98.44963,Mae Hong Son,North
+2461311,The Mud House by CMG,18.70707013718418,98.91531793782238,Chiang Mai,North
+2470105,Pai: Paiformance Gym,19.353232,98.438033,Mae Hong Son,North
+2473770,"Talingchan, Bangkok, Thailand",13.771228,100.434618,Bangkok,Central
+2474515,Thung Yao South (near Two Huts),19.317546,98.448532,Mae Hong Son,North
+2492986,The Hideaway Village (near Wat Sop Phaem),19.299787,98.443144,Mae Hong Son,North
+2510432,Pa Yang School,19.395591,98.387011,Mae Hong Son,North
+2523394,Pai Immigration ,19.361656,98.438967,Mae Hong Son,North
+2523721,Prachinburi Provincial Public Health,14.053201,101.369361,Prachin Buri,East
+2524053,Prachinburi Provincial Public Health,14.0449046434287,101.3689396242558,Prachin Buri,East
+2575375,สันโป่ง,18.941970789965023,98.94292144786002,Chiang Mai,North
+2603964,,13.771263,100.434679,Bangkok,Central
+2608457,"Talingchan, Bangkok, Thailand",13.771263,100.434679,Bangkok,Central
+2674799,"Talingchan, Bangkok, Thailand",13.771263,100.434679,Bangkok,Central
+2692433,Soi Rimthang Rotfai 3,13.723917563386962,100.4896320971784,Bangkok,Central
+2692436,Soi Naradhiwas Rajanagarindra 17/1,13.714227217771464,100.53463637224243,Bangkok,Central
+2692437,Nana Nue Pier,13.74828616518107,100.55400303589226,Bangkok,Central
+2692438,Soi Wong Sawang 3,13.818829640186134,100.5170517172806,Bangkok,Central
+2692439,Wanglang Rd.,13.759764,100.474672,Bangkok,Central
+2692642,Suriya Thep Alley,13.749383457371344,100.47691024942468,Bangkok,Central
+2692643,Tang Trong Chit Alley,13.768026699364972,100.46533225829832,Bangkok,Central
+2692644,Kiak Kai Intersection,13.79695026631216,100.5222724774432,Bangkok,Central
+2692645,Vibhavadi Rangsit 11 Alley Lane 10,13.824551234939227,100.55028307691722,Bangkok,Central
+2694254,Soi Kheha Pattana 1,13.709940984188846,100.57602189955097,Bangkok,Central
+2739142,MSK Talat,16.1033,103.1733,Maha Sarakham,Northeast
+2806604,โรงเรียนมีชัยพัฒนา 1,14.943276639744417,102.83871536708331,Buri Ram,Northeast
+2806608,โรงเรียนราชประชานุเคราะห์ 51,14.666787304554926,102.78690436763945,Buri Ram,Northeast
+2807918,ป่ากล้วย,18.935269692344082,98.96733918346216,Chiang Mai,North
+2811479,โรงเรียนบ้านหนองโบสถ์ ,14.631278247689572,102.71985109647431,Buri Ram,Northeast
+2811482,โรงเรียนบ้านซำแฮด,14.85172457209533,102.91012168884586,Buri Ram,Northeast
+2811521,โรงเรียนรวมมิตรวิทยา,14.944884280530838,102.76767049845512,Buri Ram,Northeast
+2811594,โรงเรียนบ้านสวนดอกท่าขันทองสามัคคี,20.287929573666037,100.17265393993704,Chiang Rai,North
+2811595,โรงเรียนบ้านสันดาบ,13.538714910765675,100.34699792942607,Samut Sakhon,Central
+2811741,โรงเรียนบ้านเหมืองง่า,19.57391036865655,99.78945966307552,Chiang Rai,North
+2811812,โรงเรียนบ้านหันใหญ่,15.773142728569882,102.65163695828736,Khon Kaen,Northeast
+2811813,โรงเรียนบ้านบึง-ยางประชาสรรค์,15.359517935267661,103.98238995374493,Surin,Northeast
+2811817,โรงเรียนบ้านแม่กองคา,18.046652379471208,97.82096642561154,Mae Hong Son,North
+2811857,โรงเรียนบ้านงิ้วใหม่,19.683041089169024,100.09608268612227,Chiang Rai,North
+2811859,เวียงเชียงรุ้ง   จ.เชียงราย,20.01478348661569,100.06638223958373,Chiang Rai,North
+2813651,โรงเรียนด่านใต้วิทยา,16.24309780470331,103.72712951331772,Kalasin,Northeast
+2813653,โรงเรียนคูคำพิทยาสรรพ์,16.522197658786855,103.01450808336814,Khon Kaen,Northeast
+2813725,โรงเรียนอนุบาลพาน,19.535827619120635,99.74097750939806,Chiang Rai,North
+2813902,โรงเรียนโนนสุวรรณพิทยาคม,14.58926069887642,102.60063381625223,Buri Ram,Northeast
+2813903,โรงเรียนบ้านหินโคน,15.0024514147974,102.49220967195023,Nakhon Ratchasima,Northeast
+2813904,โรงเรียนวัดจันเสน,15.117804417115428,100.45916405575342,Nakhon Sawan,Central
+2813975,โรงเรียนบ้านเกาะยวน,6.87268456246548,99.80799344894625,Satun,South
+2813976,โรงเรียนบ้านบึงทับแรต,16.702504348352143,99.86226286535995,Kamphaeng Phet,Central
+2813978,โรงเรียนบ่อเกลือ,19.079081341720972,101.15802814887805,Nan,North
+2813979,โรงเรียนบ้านสามช่อง,8.300500343011905,98.42080755406148,Phangnga,South
+2814051,โรงเรียนบ้านท่าคลอง,6.712557412643191,101.05851274648653,Pattani,South
+2821336,โรงเรียนโสตศึกษา ปราจีนบุรี,14.176639629938995,101.37048562423693,Prachin Buri,East
+2821337,โรงเรียนผ่านศึกสงเคราะห์ 2,20.1738211256972,100.06373951389979,Chiang Rai,North
+2821629,"โรงเรียนหนองรี ""มิตรภาพที่ 225""",14.63634665114693,102.78607574105901,Buri Ram,Northeast
+2821701,โรงเรียนราชประชานุเคราะห์ 45,14.128972484746537,99.69294076763131,Kanchanaburi,West
+2822813,โรงเรียนบ้านหนองแวงมน,15.738638477478045,102.4671765670442,Khon Kaen,Northeast
+2826926,โรงเรียนบ้านโคกกลางอนุสรณ์,14.975487206390724,102.84285317073332,Buri Ram,Northeast
+2827389,"Saraphi, Chiang Mai",18.643732496500956,99.11761562116169,Lamphun,North
+2827390,โรงเรียนขุนยวมวิทยา,18.83658958412909,97.93999695256035,Mae Hong Son,North
+2827391,มหาวิทยาลัยราชภัฏสุราษฎร์ธานี 2,9.079092104453187,99.35585497596007,Surat Thani,South
+2827392,มหาวิทยาลัยราชภัฎภูเก็ต 1,7.909639025949969,98.38698699663972,Phuket,South
+2827393,มหาวิทยาลัยราชภัฎภูเก็ต 2,7.913188350254121,98.38594629958502,Phuket,South
+2827394,หอดูดาวสงขลา,7.158502558743491,100.6113217561578,Songkhla,South
+2827395,โรงเรียนแวงพิทยาคม,17.42769650946683,103.61873634019608,Sakon Nakhon,Northeast
+2827396,โรงเรียนเสริมงามวิทยาคม,18.050391606682883,99.23346803905622,Lampang,North
+2827398,มหาวิทยาลัยราชภัฏสุราษฎร์ธานี 1,9.085112597568509,99.36435841579191,Surat Thani,South
+2832266,โรงเรียนบีกริม,13.638638923364107,102.39096382050207,Sa Kaeo,East
+2832600,โรงเรียนเสริมขวาวิทยา,18.129044618992815,99.20212951372334,Lampang,North
+2843623,โรงเรียนบ้านบึงเนียมบึงใคร่นุ่นท่าหิน,16.437090220329377,102.94489222691979,Khon Kaen,Northeast
+2843624,โรงเรียนทุ่งต้นปีก,8.265338492002899,98.80838059044652,Krabi,South
+2843625,โรงเรียนศรีสังวาลย์เชียงใหม่,18.91706462015052,98.99813940307875,Chiang Mai,North
+2843627,โรงเรียนราชประชานุเคราะห์ 37,8.267128021403797,99.04695559639762,Krabi,South
+2843628,โรงเรียนบ้านหนองช้าง,15.771612780842087,103.62445122052046,Roi Et,Northeast
+2843630,โรงเรียนบ้านละทาย,15.179903455765555,104.58213514232098,Si Sa Ket,Northeast
+2843631,โรงเรียนเทศบาล1,15.108579666315347,104.33112649176883,Si Sa Ket,Northeast
+2843632,โรงเรียนบ้านท่ามะพร้าว,7.832802520610627,99.1719853716311,Krabi,South
+2843713,โรงเรียนโสตศึกษา สุรินทร์,14.708486039648943,103.42312321153788,Surin,Northeast
+2843720,โรงเรียนราชประชานุเคราะห์ 56,18.55614310402829,100.71911569413429,Nan,North
+2843723,โรงเรียนชุมชนวัดเขาไม้แก้ว,12.949917877088192,101.03639622869056,Chon Buri,East
+2843771,โรงเรียนบ้านน้อยห้วยรินวิทยา,18.02707441554263,98.66349112279283,Chiang Mai,North
+2845048,โรงเรียนบ้านคลองตัน ,13.672005063516075,100.14150520971182,Samut Sakhon,Central
+2845347,โรงเรียนบ้านโคกขามโนนสมบูรณ์,14.817848930975666,102.88950559496688,Buri Ram,Northeast
+2846870,โรงเรียนบ้านกรูดหนองซำ,15.16195622435345,103.4473178782824,Surin,Northeast
+2847183,โรงเรียนบ้านน้ำอ้อมรัฐประชานุสรณ์,14.656188098453697,104.6479380461637,Si Sa Ket,Northeast
+2847189,โรงเรียนสามขาท่าหาดยาววิทยา,15.467239994182787,103.89807727980353,Roi Et,Northeast
+2847190,โรงเรียนบ้านบ้องตี้,14.07163576918484,98.99364301926609,Kanchanaburi,West
+2847191,โรงเรียนบ้านกาศประชานุเคราะห์,18.082763142301825,100.17276032284325,Phrae,North
+2847192,โรงเรียนวรดิตถ์วิทยาประสูทน์,14.490412714080469,100.43669131922096,Ang Thong,Central
+2847193,โรงเรียนเทศบาล3,15.132768807414523,104.31156419354186,Si Sa Ket,Northeast
+2847196,โรงเรียนวัดกระเฉท,12.75573100747808,101.22385802114438,Rayong,East
+2847198,โรงเรียนบ้านหนองป่าก่อ,20.172104137137712,100.11495065829588,Chiang Rai,North
+2847199,"โรงเรียนบ้านกวางงอย ""รัฐราษฎ์อำนยวิทย์""",14.924239991191783,102.83397082105887,Buri Ram,Northeast
+2847200,โรงเรียนห้วยลึกวิทยา,18.161524900880167,103.37388227367104,Bueng Kan,Northeast
+2847201,โรงเรียนชุมชนตำบลนายาง,17.914424417093098,99.30777676331053,Lampang,North
+2847202,โรงเรียนศรีสังวาลย์ ขอนแก่น,16.474516060555143,102.84070593309495,Khon Kaen,Northeast
+2847203,โรงเรียนบ้านเวียงแก้ว,20.377994751808878,100.02748244236572,Chiang Rai,North
+2847205,โรงเรียนบ้านโนนแสนคำหนองศาลาศรีสะอาด,14.543129573360519,104.71854715911172,Si Sa Ket,Northeast
+2847206,โรงเรียนราชประชานุเคราะห์ 15,20.27491375532466,100.08676619657707,Chiang Rai,North
+2847207,โรงเรียนบ้านหนองแวง ,15.08809077921939,102.97314965290245,Buri Ram,Northeast
+2848543,โรงเรียนบ้านหนองไห ,16.2072670990296,102.6615149381862,Khon Kaen,Northeast
+2848549,โรงเรียนบ้านห้วยเม็ง (ประสาทวิทย์),20.297601712763182,100.38589414207362,Chiang Rai,North
+2848632,โรงเรียนบ้านปัญจคาม,14.946756737052159,102.85642746135028,Buri Ram,Northeast
+2848810,International School Bangkok - Nonthaburi ,13.8929,100.5258,Nonthaburi,Central
+2848950,โรงเรียนพัฒนาสามัคคี,15.810264445974283,104.71285338712057,Amnat Charoen,Northeast
+2850409,โรงเรียนบ้านห้วยไม้หก,17.426687368214814,98.46186558690347,Chiang Mai,North
+2850582,โรงเรียนท่านผู้หญิงวิไล อมาตยกุล,15.797497731650001,98.58490525995242,Tak,West
+2854419,โรงเรียนโสตศึกษาจังหวัดชัยภูมิ,15.861044591272048,102.07364302502404,Chaiyaphum,Northeast
+2856204,โรงเรียนโคกสวาสดิ์หนองสองห้องดอนแดง,15.971762558214655,104.63396983717334,Amnat Charoen,Northeast
+2856334,โรงเรียนบ้านขี้เหล็กดอยดินแดง,20.192107282287857,99.92237810267108,Chiang Rai,North
+2857820,โรงเรียนเตรียมทหาร รุ่นที่ 13 อนุสรณ์,16.350857980092687,104.57883941275776,Mukdahan,Northeast
+2858173,โรงเรียนบ้านคอกควาย(สันติภาพคุรุราษฎร์พัฒนา),14.687464929074753,102.79859033217699,Buri Ram,Northeast
+2861423,โรงเรียนพยัคฆภูมิวิทยาคาร,15.512772846428138,103.1924975423704,Maha Sarakham,Northeast
+2877979,โรงเรียนบ้านโปร่งสำราญ,18.172779557982327,103.17525478935896,Nong Khai,Northeast
+2894142,โรงเรียนราชประชานุเคราะห์ 50,16.25802367972713,102.77506342533592,Khon Kaen,Northeast
+2894237,โรงเรียนบ้านโนนคูณ,14.920165439073962,104.71185584158256,Si Sa Ket,Northeast
+2894459,โรงเรียนลพบุรีปัญญานุกูล,14.783014131133461,100.64741702329812,Lop Buri,Central
+2904490,โรงเรียนบ้านแม่ลิด ,18.188941450430637,98.13689957660866,Mae Hong Son,North
+2908059,"Prem International School, The Pool",18.962544060773414,98.91557422011076,Chiang Mai,North
+2909413,Soi Bumrungsin ,13.4054598,100.9875579,Chon Buri,East
+2912858,โรงเรียนวัดเกาะ,12.740953304194278,101.28107571423837,Rayong,East
+2920397,โรงเรียนบ้านช่อผกา ,14.829779036752795,102.83396922482842,Buri Ram,Northeast
+2926254,โรงเรียนบ้านวังลุง,18.177309310650944,98.61097589156435,Chiang Mai,North
+2926351,โรงเรียนวัดเทพนิมิตร,7.860514922370785,98.36903463319537,Phuket,South
+2927633,โรงเรียนราชประชานุเคราะห์ 35,8.776161659005904,98.26620212523758,Phangnga,South
+2927999,โรงเรียนราชประชานุเคราะห์ 46,15.184977141061985,100.12478444536801,Chai Nat,Central
+2933397,โรงเรียนบ้านหนองยาง,17.970503944113364,103.28741677000276,Nong Khai,Northeast
+2933523,โรงเรียนบ้านหัวเวียง (โกศัลย์วิทย์),20.272634337603776,100.40377154901601,Chiang Rai,North
+2938625,โรงเรียนบ้านดอนแดงเจริญทอง,17.2537152291695,104.69491626895613,Nakhon Phanom,Northeast
+2953982,โรงเรียนบ้านเสียว,15.257387898044886,104.03668778711167,Si Sa Ket,Northeast
+3002975,พระอาทิตย์ขึ้น สันโป่ง,18.927,98.962,Chiang Mai,North
+3008643,Chumchon Banpadang School,6.66638438023621,100.32726914385205,Songkhla,South
+3019320,Rangsit - Nakhon Nayok 25,13.990582062342105,100.63521933513957,Pathum Thani,Central
+3047300,"Sports Stadium, Chumphon Province",10.495142389105824,99.18935409512319,Chumphon,South
+3047340,"Maerim, Chiangmai",18.932580910609936,98.94895059814411,Chiang Mai,North
+3090636,Uno Solutions,13.8498819,100.638635,Bangkok,Central
+3097120,Circle Living Prototype,13.750578,100.556228,Bangkok,Central
+3098869,NIST International School,13.747719895912152,100.56011829186963,Bangkok,Central
+3133267,NASA GSFC Rutgers Calib. N17,13.8192,100.041,Nakhon Pathom,Central
+3203249,Supalai Lake Ville Phuket,7.968184,98.378202,Phuket,South
+3291325,Mae Sariang District Office,18.158912,97.93271,Mae Hong Son,North
+3332045,Soi Ramintra 62,13.8306134,100.6690372,Bangkok,Central
+3337858,Health Promoting Hospital Khlong Sakae,14.499973,100.650785,Phra Nakhon Si Ayutthaya,Central
+3343025,Suphan Buri Sri Prachan,14.642824,100.149966,Suphan Buri,Central
+3345301,Pramuan Suk Health Park,16.77283,103.29982399999999,Kalasin,Northeast
+3345345,Rayong Provincial Stadium,12.678917,101.234664,Rayong,East
+3347581,Pramuan Suk Health Park,16.177283,103.29982399999999,Maha Sarakham,Northeast
+3349809,Green Life Samui,9.539588,100.046542,Surat Thani,South
+3350392,Mexico City Polanco,19.434,99.1956,Chiang Mai,North
+3354390,Soi Cowboy,13.7370851,100.562983,Bangkok,Central
+3368091,Land Development Station,13.520415,100.1506688,Samut Sakhon,Central
+3400903,Soi Cowboy ,13.7370851,100.562983,Bangkok,Central
+3400922,Wang Pring Teen Na บ้านวังปริง-ตีนนา ,6.80172419898538,100.49337985674264,Songkhla,South
+3400935,MI Home,13.698573693307418,100.5959569057577,Bangkok,Central
+3400936,Thung Hua Sinn Group,13.69892706888951,100.5967325993592,Bangkok,Central
+3400937,Khlong 3 - Lat Sawai,13.944866,100.6670272,Pathum Thani,Central
+3400941,Neighbour Home,13.9135033,100.6843258,Bangkok,Central
+3400954,"Bangramad, Talingchan",13.769972,100.436219,Bangkok,Central
+3400955,Ban Lat Sombun,17.0747487,103.9818061,Sakon Nakhon,Northeast
+3400956,The Lofts Asoke - sukhumvit 21,13.74679776025865,100.56215036834317,Bangkok,Central
+3400979,"House 45, Arden Rama 3",13.67941,100.54297,Bangkok,Central
+3400985,Onnut 44,13.699072722760107,100.63272004438734,Bangkok,Central
+3401031,Royce Private,13.7408785546112,100.56617492969099,Bangkok,Central
+3402586,TPN FlexPak,13.5865189344302,100.95071089222978,Chachoengsao,East
+3402593,TPN Packaging,13.587370852277184,100.94784483015584,Chachoengsao,East
+3402594,Thung Hua Sinn Printing Network,13.579648742936051,100.94081408928972,Chachoengsao,East
+3407228,Noble Remix - Bangkok,13.725080260147958,100.57723279163291,Bangkok,Central
+3412669,"Don Wai, Nong Khai",17.800084262001807,102.67435310442903,Nong Khai,Northeast
+3527752,"Sanam Sai, Pong Ta Long, Pak Chong",14.559764291719427,101.50069771390922,Nakhon Ratchasima,Northeast
+3576032,Ban Nong Wa,14.968124,102.9822904,Buri Ram,Northeast
+3652441,"Soi Sukhumvit 31, High floor",13.73411,100.565955,Bangkok,Central
+3699664,บริษัท ไอ.ที.โกลโบล จำกัด,18.7316881,98.9514679,Chiang Mai,North
+3891934,หมู่บ้านแก้วสา,18.928286035684813,98.94445179435797,Chiang Mai,North
+3892436,วัดดวงดี,18.91977780483509,98.95279736395602,Chiang Mai,North
+3892437,บ้านร้องเกิด,18.92786395211318,98.96541049234524,Chiang Mai,North
+3920973,RC-Film,12.947857053547915,101.10873618266338,Rayong,East
+4028033,Opposite Thammasat Chiang Rak 1 Gate - ชุมชนคุ้งผ้าพับ ธรรมศาสตร์ เชียงราก 1,14.064706097742768,100.60502410138216,Pathum Thani,Central
+4131363,KU faculty of environnment,13.85574,100.570032,Bangkok,Central
+4133388,Kasetsat University,13.85574,100.570032,Bangkok,Central
+4165629,Trat ,12.250418275215738,102.51627866749956,Trat,East
+4213488,KU Faculty of environnment,13.85574,100.570032,Bangkok,Central
+4588536,บ้านดอยน้อย,18.9335,99.0098,Chiang Mai,North
+4700981,Central Phuket,8.04441,98.3148,Phuket,South
+4754802,Urban Studies Lab,13.7574005,100.5066183,Bangkok,Central
+4765764,THABO HOSPITAL - โรงพยาบาลสมเด็จพระยุพราชท่าบ่อ,17.846889,102.576403,Nong Khai,Northeast
+4837111,Palm Estate,13.710874395049988,100.54139120223834,Bangkok,Central
+4894523,Nantawan Pinklao-Ratchaphruek,13.770583060432282,100.43630207777919,Bangkok,Central
+4932270,AirGradient Demo Dashboard,18.900572,98.6950831,Chiang Mai,North
+4993065,DPSW Production,13.843354,100.725719,Bangkok,Central
+5024214,Sukontasawat19 ,13.833484,100.622189,Bangkok,Central
+5092509,KU faculty of environnment,13.85574,100.570032,Bangkok,Central
+5092510,Kasetsart University,13.85574,100.570032,Bangkok,Central
+5108494,Magi HQ,13.740456,100.691639,Bangkok,Central
+5454936,BTT HQ,13.631563,100.489559,Bangkok,Central
+5482624,BTT APW,13.430072,99.955553,Samut Songkhram,Central
+5551122,7-eleven,18.944416458815923,98.94308592870685,Chiang Mai,North
+5554536,Chalermprakiat Rama IX Park,15.173475,100.132105,Chai Nat,Central
+5554537,Chaloem Phrakiat Park Station 80th birthday celebration,15.384667000000002,100.024992,Uthai Thani,Central
+5554538,Pattani Provincial Forestry Center,6.890637,101.250888,Pattani,South
+5554539,Phatthalung Provincial Stadium,7.6156514,100.0480234,Phatthalung,South
+5851170,Baan Kut Ngong,14.680844804221923,101.60590778699802,Nakhon Ratchasima,Northeast
+5951902,Air Quality Nexus Center,14.079479,100.612459,Pathum Thani,Central
+5955903,Air Quality Nexus Center,14.079479,100.612459,Pathum Thani,Central
+5965756,The base hight,18.8029938,99.01666,Chiang Mai,North
+6046741,Ceil Condo Outdoor,13.730526919960575,100.58789715633158,Bangkok,Central
+6048285,Klin Mai Ram village,13.6882883,100.6288872,Bangkok,Central
+6094818,Banpho,14.4919901,100.0750989,Suphan Buri,Central
+6099600,Hakuna Matata Villas Phrae,18.306047430369297,100.28064817700623,Phrae,North
+6101817,Hana,12.33466,99.979912,Prachuap Khiri Khan,West
+6115454,' ',18.923649,98.975744,Chiang Mai,North
+6118093,Ban Lad Sombun,17.074733,103.981793,Sakon Nakhon,Northeast
+6130741,Sukhumvit101/1,13.682404,100.613816,Bangkok,Central
+6144367,Duang Prateep Foundation HQ,13.710670173250579,100.57499367487921,Bangkok,Central
+6144405,Baan Makong,13.70559,100.584,Bangkok,Central
+6144666,"Lock 1-2-3 (13.7121923, 100.5740800)",13.712219,100.57408,Bangkok,Central
+6149445,PHOTHARAM,13.6337,99.83283,Ratchaburi,West
+6152097,NongHoi,18.747511275645873,99.0158037871921,Chiang Mai,North
+6154187,Britania KhuKhot,13.95102,100.648903,Pathum Thani,Central
+6160493,ໂຮງໝໍແຂວງສະຫວັນນະເຂດ Savannakhet Provincial Hospital,16.5504623530255,104.746607785021,Unknown,Unknown
+6160761,Suthep,18.785159,98.960696,Chiang Mai,North
+6165738,Wat Thong Song Tham Child Development Center,14.420548,100.595312,Phra Nakhon Si Ayutthaya,Central
+6167893,Ruean Prathap Station,16.666299,98.657489,Tak,West
+6167894,Tha Kham Municipality Office,18.752222,98.927778,Chiang Mai,North
+6167895,Tree planting station,16.663994,98.664641,Tak,West
+6176026,"iyachart Pattana School, under the royal patronage of Her Royal Highness Princess Maha Chakri Sirindhorn.",14.278780850523706,101.16093815767054,Nakhon Nayok,Central
+6191210,hung Thale Luang Station,17.051112,99.806396,Sukhothai,Central
+6192014,Opposite TU Chiang Rak 1 - ชุมชนคุ้งผ้าพับ มธ. เชียงราก 1 - เครื่อง Test,14.064828,100.605157,Pathum Thani,Central
+6195103,"Mityothin, Chatuchak, Bangkok",13.8237744,100.5667347,Bangkok,Central
+6200540,โรงเรียนนิคมสร้างตนเองสงเคราะห์ขาวเขา,20.18158879881544,99.7706405269282,Chiang Rai,North
+6202299,PhasinHQ,14.149093,100.613889,Phra Nakhon Si Ayutthaya,Central
+6204072,Srinakharinwirot University,14.105929779420226,100.9851175092921,Nakhon Nayok,Central
+6204360,Ban Fah Piyarom phase 2 (Kiengsuan),13.94169,100.737271,Pathum Thani,Central
+6204666,Snoozer Labs (Tantip Village),13.76183725246212,100.65373440109288,Bangkok,Central
+6204667,Life Bangkok Boulevard,13.8158217,100.6953185,Bangkok,Central
+6205698,AGRO🏠,13.908673,100.435375,Nonthaburi,Central
+6205699,SM HQ,13.7745623,100.7076196,Bangkok,Central
+6205700,GappyZ HQ,13.638242,100.482148,Bangkok,Central
+6205764,SM Chachoengsao Branch,13.700364,101.0775579,Chachoengsao,East
+6205924,Manthana 2 Bangna KM.7,13.64403537761468,100.66741440750471,Samut Prakan,Central
+6206887,Dairy Promotion Organization of Thailand,14.634513215336314,101.19161207791055,Saraburi,Central
+6207256,"Darunee Farm, Doi Lo",18.559169677653216,98.79386831199298,Chiang Mai,North
+6209697,หับ โห้ หิ้น (ハップ・ホー・ヒン),7.1982809,100.5884935,Songkhla,South
+6209698,OatState Home - Baan Klang Muang Phaholyothin 50,13.887808364752395,100.61798243052827,Bangkok,Central
+6210633,Wongsakorn NaMueang,13.68636,101.060703,Chachoengsao,East
+6210702,Mind Tiwanon Village,13.848333,100.505547,Nonthaburi,Central
+6216172,585 Prachasongkhro 2 Yak 11 DinDaeng Bangkok,13.762562,100.559812,Bangkok,Central
+6217058,"Research Institute for Health Sciences (RIHES),. Chiang Mai University",18.7948519,98.9563673,Chiang Mai,North
+6218293,Pa-Yang Wang Kaphi,17.575023,100.124236,Uttaradit,North
+6218918,"สี่แยกน้ำโมง - Nam Mong, Thabo Intersection",17.85811604548048,102.57049911130102,Nong Khai,Northeast
+6220117,Soi Pattanasin,13.78119,100.53811,Bangkok,Central
+6221185,Mae  Rim,18.93214606104985,98.93228799565617,Chiang Mai,North
+6222090,The Supreme Artist Hall,14.071361045244474,100.69966420057868,Pathum Thani,Central
+6222557,Granada Pinklao Village,13.793313574500337,100.36264082195247,Bangkok,Central
+6223085,Tor Kasetpattana,13.802151,99.970952,Nakhon Pathom,Central
+6224050,"Meow-nitoring Station, Thoet Rachan, Don mueang, Bangkok",13.94765038109582,100.59536746994597,Bangkok,Central
+6225366,Sriphum,18.7909333,98.9881964,Chiang Mai,North
+6226542,MaeWannee Gold 11,13.164647,100.931404,Chon Buri,East
+6226788,SuanMongkol,12.9329552,101.9119605,Chanthaburi,East
+6229487,All Weather Farm,13.623311,100.434948,Bangkok,Central
+6229488,Baan Kin,13.626585,100.419946,Bangkok,Central
+6230362,บ้านหัวหาด-คุ้งตะเภา,17.659754,100.167478,Uttaradit,North
+6230395,ถนนตัดใหม่-แยกวัดอรัญฯ,17.63678,100.081672,Uttaradit,North
+6230463,Wat Thipsukontharam,14.322590288904477,99.70350372440087,Kanchanaburi,West
+6230638,Miracle Theparak,13.601138,100.681314,Samut Prakan,Central
+6230737,Test bed,13.849607,100.504991,Nonthaburi,Central
+6235850,THE LINE Phahonyothin Park,13.817607270599972,100.566363356019,Bangkok,Central
+6236444,Rangsit - Nakhon Nayok 50,13.983343863176646,100.64824474352226,Pathum Thani,Central
+6238788,Jilawan Thai Local Treats,13.537611,101.009417,Chachoengsao,East
+6240774,147/23 Maneerin Park Rangsit,13.994154165223069,100.56624675916261,Pathum Thani,Central
+6242472,The Miracle Thepharak,13.60110559801693,100.68135071743959,Samut Prakan,Central
+6244503,Thairoj Pharmacy,20.25670103274936,100.40604193534264,Chiang Rai,North
+6245573,Passorn 5,13.7061133,100.4519157,Bangkok,Central
+6246375,Thap Luang Subdistrict Administrative Organization,15.103107950461235,99.62226751002622,Uthai Thani,Central
+6248478,ThaReang,13.8644075,100.6580904,Bangkok,Central
+6251785,Guest House at King Naresuan the Great Camp,16.83715163121024,100.25910826690338,Phitsanulok,Central
+6254869,Car Clinic Wat Thanon Khae,14.826475283457356,100.63362680360751,Lop Buri,Central
+6256182,Ban Non Muang,15.700208339806426,101.84339557617676,Chaiyaphum,Northeast
+6262040,Sadao Khanchai School  สะเดาขรรค์ชัย,6.6288089,100.4227884,Songkhla,South
+6262229,Public Park to commemorate the sixth anniversary of His Majesty the King,13.685524189587932,100.51830028147444,Bangkok,Central
+6262415,Opposite TU Chiang Rak 1 - ชุมชนคุ้งผ้าพับ มธ. เชียงราก 1 - เครื่อง Test,14.065220541194403,100.6049662454904,Pathum Thani,Central
+6265525,TaGu,13.764253106297673,100.50850720090718,Bangkok,Central
+6265526,Air data collection at Un conference,13.7101,100.4543,Bangkok,Central
+6265527,Allin-Wayra,13.754,100.5014,Bangkok,Central
+6265528,Aurgradient BAQ Monitor,13.76402528587127,100.50871186467644,Bangkok,Central
+6265530,หนองผา,17.624569,100.079678,Uttaradit,North
+6266258,"Doi Tung Royal Palace, Mae Fah Luang District, Chiang Rai Province",20.28755518332941,99.81050726698746,Chiang Rai,North
+6266641,"Phaya Ngam Muang Auditorium, University of Phayao",19.029919816067558,99.89736003675418,Phayao,North
+6266678,ถนนพาดวารี-บขส,17.61106,100.092195,Uttaradit,North
+6266905,"CACAAS Co., Ltd. - Keystone TU Office",14.06392,100.59814,Pathum Thani,Central
+6273349,Artillery Officers Club of the 31st Artillery Battalion,14.884886999744845,100.6373358670088,Lop Buri,Central
+6277032,Wat Phra Pathom Chedi Ratchaworamahavihara,13.817360990710023,100.05771179582489,Nakhon Pathom,Central
+6280774,Ornsirin 5,18.71595715584073,99.04038033815908,Chiang Mai,North
