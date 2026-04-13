@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: staging
+    description: "Staging source for thai pm25 data pipeline"
+    database: thai25pm-data-platform
+    schema: thai25pm_dataset_252026
+    tables:
+      - name: openaq_raw_external
