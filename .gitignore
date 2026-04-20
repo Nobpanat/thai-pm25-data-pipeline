@@ -205,3 +205,35 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+.aiexclude
+
+# ============================================================
+# Project-specific: Thai PM2.5 Data Pipeline
+# ============================================================
+
+# GCP Credentials (CRITICAL - never commit!)
+terraform/keys/
+*.json.key
+*credentials*.json
+
+# Terraform State (contains sensitive infrastructure info)
+terraform/.terraform/
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+
+# Airflow generated logs & runtime files
+logs/
+config/
+
+# dbt generated artifacts (auto-created on each run)
+dbt_thai_pm25/target/
+dbt_thai_pm25/dbt_packages/
+dbt_thai_pm25/logs/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python virtual environments
+.venv/
