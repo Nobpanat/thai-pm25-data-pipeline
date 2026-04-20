@@ -1,0 +1,22 @@
+[project]
+name = "thai-pm25-data-pipeline"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "boto3>=1.42.81",
+    "dbt-bigquery>=1.8.0,<1.9.0",
+    "geopy>=2.4.1",
+    "google-cloud-storage<3.0.0",
+    "openaq>=0.7.0",
+    "pandas>=3.0.1",
+    "requests>=2.32.5",
+    "tqdm>=4.67.3",
+]
+
+[dependency-groups]
+dev = [
+    "jupyter>=1.1.1",
+    "python-dotenv>=1.2.2",
+]
