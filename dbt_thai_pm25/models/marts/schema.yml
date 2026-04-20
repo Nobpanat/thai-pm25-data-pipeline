@@ -1,0 +1,86 @@
+version: 2
+
+models:
+  - name: dim_thai_locations
+    description: "Dimension table representing the official list of monitoring stations across Thailand. Deduplicated to ensure one location_id per physical coordinate."
+    columns:
+      - name: location_id
+        description: "Primary key for the location. Represents the smallest ID available for a given coordinate."
+        tests:
+          - unique
+          - not_null
+      - name: location_name
+        description: "The original name of the tracking station as registered in OpenAQ."
+      - name: latitude
+        description: "Latitude coordinate of the station."
+        tests:
+          - not_null
+      - name: longitude
+        description: "Longitude coordinate of the station."
+        tests:
+          - not_null
+      - name: province
+        description: "The Thai province where the station is located (mapped via reverse geocoding)."
+      - name: region
+        description: "The geographical region of Thailand (e.g., North, Central, South)."
+
+  - name: fct_pm_daily
+    description: "Primary dimensional fact table capturing aggregated daily PM2.5 and PM10 metrics for each valid station in Thailand. Incremental table protecting against duplicate measurements."
+    columns:
+      - name: pm_daily_id
+        description: "Surrogate primary key (MD5 Hash) ensuring unique rows per location per day."
+        tests:
+          - unique
+          - not_null
+      - name: date_day
+        description: "The date of the aggregated measurements."
+        tests:
+          - not_null
+      - name: location_id
+        description: "Foreign key mapping back to dim_thai_locations."
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_thai_locations')
+              field: location_id
+      - name: location_name
+        description: "Name of the station (denormalized from the dimension table for easier querying)."
+      - name: province
+        description: "Province of the station."
+      - name: region
+        description: "Region of the station."
+      - name: latitude
+        description: "Latitude coordinate."
+        tests:
+          - not_null
+      - name: longitude
+        description: "Longitude coordinate."
+        tests:
+          - not_null
+      - name: station_location_str
+        description: "String representation of the coordinates (Latitude, Longitude), useful for Looker Studio heatmaps."
+      - name: location_geom
+        description: "BigQuery native GEOGRAPHY point for the station."
+      - name: avg_pm25
+        description: "Average PM2.5 concentration recorded throughout the day."
+      - name: max_pm25
+        description: "Maximum PM2.5 concentration recorded during the day."
+      - name: min_pm25
+        description: "Minimum PM2.5 concentration recorded during the day."
+      - name: avg_pm10
+        description: "Average PM10 concentration recorded throughout the day."
+      - name: max_pm10
+        description: "Maximum PM10 concentration recorded during the day."
+      - name: min_pm10
+        description: "Minimum PM10 concentration recorded during the day."
+      - name: measurement_unit
+        description: "Unit of the recorded metrics, typically µg/m³."
+      - name: active_sensors
+        description: "Total number of unique sensors tracking air quality at this location for the day."
+      - name: total_records_count
+        description: "Total number of measurement logs collected during the day. Higher counts represent better sensor reliability."
+      - name: air_quality_status
+        description: "Calculated health impact status derived from the daily average PM2.5 against Thailand's Air Quality Index thresholds."
+        tests:
+          - accepted_values:
+              values: ['Good', 'Satisfactory', 'Moderate', 'Unhealthy', 'Very Unhealthy', 'No PM2.5 Data']

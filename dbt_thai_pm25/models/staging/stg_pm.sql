@@ -1,3 +1,14 @@
+{{
+  config(
+    materialized='table',
+    partition_by={
+      "field": "measured_at",
+      "data_type": "timestamp",
+      "granularity": "day"
+    }
+  )
+}}
+
 with raw_converted as (
     select
         cast(location_id as int64) as location_id,

@@ -1,0 +1,42 @@
+version: 2
+
+models:
+  - name: stg_pm
+    description: "Staging view containing raw PM2.5 and PM10 sensor readings extracted from OpenAQ. Data has been fundamentally filtered to remove negative values and invalid coordinates."
+    columns:
+      - name: location_id
+        description: "Standardized OpenAQ Location ID identifying the monitoring station."
+        tests:
+          - not_null
+      - name: sensor_id
+        description: "The specific sensor ID returning the measurement."
+      - name: location_name
+        description: "The name of the location where the sensor is placed."
+      - name: measured_at
+        description: "The exact timestamp (in UTC) when the measurement was recorded."
+        tests:
+          - not_null
+      - name: latitude
+        description: "Latitude coordinate of the sensor."
+        tests:
+          - not_null
+      - name: longitude
+        description: "Longitude coordinate of the sensor."
+        tests:
+          - not_null
+      - name: parameter
+        description: "The pollutant being measured. Strictly filtered to PM2.5 and PM10."
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['pm25', 'pm10']
+      - name: pm_value
+        description: "The numerical reading value of the pollutant concentration."
+        tests:
+          - not_null
+      - name: unit
+        description: "Unit of measurement (usually µg/m³)."
+      - name: year
+        description: "Extracted year from the measurement timestamp for potential partitioning."
+      - name: month
+        description: "Extracted month from the measurement timestamp."

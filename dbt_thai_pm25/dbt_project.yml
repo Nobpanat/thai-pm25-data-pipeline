@@ -34,7 +34,7 @@ models:
     # Config indicated by + and applies to all files under models/example/
     staging:
       +materialized: view
-      +schema: thai25pm_dataset_252026
+      +schema: "{{ env_var('DBT_STAGING_SCHEMA', 'staging') }}"
     marts:
       +materialized: table
-      +schema: thai25pm_data_prod_252026
+      +schema: "{{ env_var('DBT_PROD_SCHEMA', 'marts') }}"

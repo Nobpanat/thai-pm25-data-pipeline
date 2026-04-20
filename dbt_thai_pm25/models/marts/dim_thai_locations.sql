@@ -13,3 +13,7 @@ select
     cast(province as string) as province,
     cast(region as string) as region
 from raw_seed_data
+qualify row_number() over (
+    partition by cast(round(cast(latitude as float64), 4) as string), cast(round(cast(longitude as float64), 4) as string)
+    order by cast(location_id as int64) asc
+) = 1

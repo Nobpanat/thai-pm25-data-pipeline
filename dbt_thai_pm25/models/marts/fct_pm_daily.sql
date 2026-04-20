@@ -1,5 +1,7 @@
 {{
   config(
+    materialized='incremental',
+    unique_key='pm_daily_id',
     partition_by={
       "field": "date_day",
       "data_type": "date",
@@ -11,7 +13,10 @@
 }}
 
 with air_stg as (
-    select * from {{ ref('stg_pm25') }}
+    select * from {{ ref('stg_pm') }}
+    {% if is_incremental() %}
+    where date(measured_at) >= (select date_sub(max(date_day), interval 3 day) from {{ this }})
+    {% endif %}
 ),
 
 dim_locations as (
@@ -21,9 +26,9 @@ dim_locations as (
 daily_agg as (
     select
         location_id,
-        latitude,
-        longitude,
         date(measured_at) as date_day,
+        avg(latitude) as latitude,
+        avg(longitude) as longitude,
         
         -- Metrics Aggregation
         round(avg(case when parameter = 'pm25' then pm_value end), 2) as avg_pm25,
@@ -39,7 +44,7 @@ daily_agg as (
         count(distinct sensor_id) as active_sensors,
         count(*) as total_records_count 
     from air_stg
-    group by 1, 2, 3, 4
+    group by 1, 2
 )
 
 select
@@ -88,6 +93,10 @@ select
     end as air_quality_status
 
 from daily_agg a
-left join dim_locations l 
+inner join dim_locations l 
     on round(a.latitude, 4) = round(l.latitude, 4)
    and round(a.longitude, 4) = round(l.longitude, 4)
+qualify row_number() over(
+    partition by coalesce(cast(l.location_id as string), cast(a.location_id as string)), a.date_day 
+    order by a.total_records_count desc, a.location_id asc
+) = 1
