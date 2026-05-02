@@ -39,6 +39,8 @@ x-airflow-common:
     - ${ENV_FILE_PATH:-.env}
   environment:
     &airflow-common-env
+    AIRFLOW__DATABASE__SQL_ALCHEMY_POOL_SIZE: 20
+    AIRFLOW__DATABASE__SQL_ALCHEMY_MAX_OVERFLOW: 30
     GCP_PROJECT_ID: ${GCP_PROJECT_ID}
     GCP_GCS_BUCKET: ${GCP_GCS_BUCKET}
     DBT_DATASET_DEV: ${DBT_DATASET_DEV}
