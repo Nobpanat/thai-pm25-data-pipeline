@@ -10,6 +10,7 @@ Usage:
 """
 
 import os
+import logging
 from dotenv import load_dotenv
 import boto3
 from botocore import UNSIGNED
@@ -22,11 +23,14 @@ from concurrent.futures import ThreadPoolExecutor
 
 load_dotenv()
 
+logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
+logger = logging.getLogger(__name__)
+
 # Configuration
 S3_BUCKET_NAME = os.getenv("S3_SOURCE_BUCKET", "openaq-data-archive")
 GCS_BUCKET_NAME = os.getenv("GCP_GCS_BUCKET")
 if not GCS_BUCKET_NAME:
-    print("Error: GCP_GCS_BUCKET is not set in environment variables.")
+    logger.error("GCP_GCS_BUCKET is not set in environment variables.")
     sys.exit(1)
 SERVICE_ACCOUNT_JSON_PATH = "terraform/keys/credentials.json"
 CSV_PATH = "data/thai_locations.csv"
@@ -51,11 +55,12 @@ def transfer_single_file(args):
             blob.upload_from_file(s3_obj["Body"])
         return True
     except Exception as e:
+        logger.error(f"Failed to transfer {s3_key}: {e}")
         return f"Error {s3_key}: {e}"
 
 
 def backfill_openaq_data():
-    print(f"[LOCAL] Starting Parallel Backfill: {START_YEAR}-{END_YEAR}")
+    logger.info(f"Starting Parallel Backfill: {START_YEAR}-{END_YEAR}")
 
     try:
         df_locations = pd.read_csv(CSV_PATH)
@@ -63,7 +68,7 @@ def backfill_openaq_data():
 
         # Scan files
         all_transfer_tasks = []
-        print("Scanning S3 for file list... (One moment)")
+        logger.info("Scanning S3 for file list...")
 
         for loc_id in tqdm(location_ids, desc="Scanning Locations"):
             for year in range(START_YEAR, END_YEAR + 1):
@@ -84,9 +89,9 @@ def backfill_openaq_data():
                             all_transfer_tasks.append((s3_key, gcs_name))
 
         total_files = len(all_transfer_tasks)
-        print(f"\n Total files found: {total_files}")
+        logger.info(f"Total files found: {total_files}")
 
-        print(f"Transferring using {MAX_WORKERS} workers on your local machine...")
+        logger.info(f"Transferring using {MAX_WORKERS} workers...")
         with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
             list(
                 tqdm(
@@ -97,10 +102,10 @@ def backfill_openaq_data():
                 )
             )
 
-        print("\n All locations processed successfully!")
+        logger.info("All locations processed successfully!")
 
     except Exception as e:
-        print(f"Fatal Error: {e}", file=sys.stderr)
+        logger.critical(f"Fatal Error: {e}", exc_info=True)
 
 
 if __name__ == "__main__":
