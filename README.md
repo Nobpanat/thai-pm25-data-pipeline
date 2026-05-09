@@ -1,8 +1,8 @@
 # Thailand PM2.5 Data Pipeline
 
-> **Data Engineering Zoomcamp 2026 — Capstone Project**
+> **DataTalks.Club's Data Engineering Zoomcamp Project**
 
-## 📌 Project Overview
+## Project Overview
 
 Air pollution, specifically PM2.5, is one of the most pressing health and environmental issues in Thailand. This project builds an **end-to-end automated data pipeline** covering air quality data from **2018 to present** that:
 
@@ -11,11 +11,11 @@ Air pollution, specifically PM2.5, is one of the most pressing health and enviro
 3. **Transforms** the data using **dbt** into analytics-ready tables in **BigQuery**
 4. **Visualizes** insights on a **Data Studio** dashboard
 
-## 📐 Architecture
+## Architecture
 ![Architecture](images/architecture-thai-25pm.png)
 
 
-## 🛠️ Technologies
+## Technologies
 
 | Layer | Technology |
 |---|---|
@@ -27,7 +27,7 @@ Air pollution, specifically PM2.5, is one of the most pressing health and enviro
 | Dashboard | Google Data Studio |
 
 ---
-## 📁 Project Structure
+## Project Structure
 
 ```
 thai-pm25-data-pipeline/
@@ -56,7 +56,7 @@ thai-pm25-data-pipeline/
 ```
 ---
 
-## 🌟 Reproducibility Guide
+## Reproducibility Guide
 
 Follow these steps to completely rebuild this pipeline from scratch.
 
@@ -83,7 +83,7 @@ Follow these steps to completely rebuild this pipeline from scratch.
    ```
    terraform/keys/credentials.json
    ```
-   > ⚠️ **CRITICAL**: This file is gitignored. Never commit or share this file.
+   > **CRITICAL**: This file is gitignored. Never commit or share this file.
 
 ---
 
@@ -139,7 +139,7 @@ MAX_WORKERS=25
 AIRFLOW_DAG_OWNER=your-name
 ```
 
-> 💡 To get your `AIRFLOW_UID` on Linux/WSL, run: `echo -e "AIRFLOW_UID=$(id -u)" >> .env`
+> To get your `AIRFLOW_UID` on Linux/WSL, run: `echo -e "AIRFLOW_UID=$(id -u)" >> .env`
 
 ---
 
@@ -232,7 +232,7 @@ The DAG runs daily at **02:00 UTC** and executes these tasks in order:
 ![tasks](images/tasks.png)
 ---
 
-## 📊 Dashboard
+## Dashboard
 
 [Link to Live Data Studio Dashboard](https://datastudio.google.com/reporting/7e10d328-e766-4853-ad98-3e9e820f136b)
 
