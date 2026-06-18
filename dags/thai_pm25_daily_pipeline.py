@@ -89,16 +89,10 @@ with DAG(
         bash_command="cp /opt/airflow/data/thai_locations.csv /opt/airflow/dbt_thai_pm25/seeds/thai_locations.csv",
     )
 
-    dbt_seed = BashOperator(
-        task_id="dbt_seed",
-        bash_command="dbt seed --profiles-dir .",
+    dbt_build = BashOperator(
+        task_id="dbt_build",
+        bash_command="dbt build --profiles-dir .",
         cwd="/opt/airflow/dbt_thai_pm25",
     )
 
-    dbt_run = BashOperator(
-        task_id="dbt_run",
-        bash_command="dbt run --profiles-dir .",
-        cwd="/opt/airflow/dbt_thai_pm25",
-    )
-
-    update_master >> extract_s3 >> copy_seed_file >> dbt_seed >> dbt_run
+    update_master >> extract_s3 >> copy_seed_file >> dbt_build

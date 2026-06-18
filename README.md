@@ -181,13 +181,12 @@ OPTIONS (
 ```bash
 cd dbt_thai_pm25
 uv run dbt deps --profiles-dir .
-uv run --env-file ../.env dbt seed --profiles-dir .
-uv run --env-file ../.env dbt run --full-refresh --profiles-dir .
-uv run --env-file ../.env dbt test --profiles-dir .
+uv run --env-file ../.env dbt build --full-refresh --profiles-dir .
 cd ..
 ```
 
 > 💡 `dbt deps` downloads `dbt_utils` package (used for surrogate key generation).
+> `dbt build` runs seeds, models, and tests in dependency order.
 > `--full-refresh` drops and rebuilds the incremental fact table from scratch.
 
 ---
@@ -226,10 +225,9 @@ The DAG runs daily at **02:00 UTC** and executes these tasks in order:
 | `update_master_locations` | Syncs new stations from OpenAQ API |
 | `extract_s3_to_gcs` | Extracts the day's data from S3 → GCS |
 | `copy_seed_file` | Copies updated CSV to dbt seeds |
-| `dbt_seed` | Refreshes dimension table in BigQuery |
-| `dbt_run` | Incrementally updates the fact table |
+| `dbt_build` | Runs dbt seeds, models, and tests in dependency order |
 
-![tasks](images/tasks.png)
+![airflow dag thai pm 25](images/airflow-dag-thai-pm-25.png)
 ---
 
 ## Dashboard
